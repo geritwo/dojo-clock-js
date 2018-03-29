@@ -20,7 +20,9 @@ Node.js [installed](https://www.npmjs.com/get-npm?utm_source=house&utm_medium=ho
 ## Definitions
 
 [npm](https://docs.npmjs.com/getting-started/what-is-npm): Dependency Managment Tool
+
 [mocha](https://mochajs.org/): Test Framework
+
 [chai](https://www.npmjs.com/package/chai): Assertion Framework
 
 ## What You'll Learn
