@@ -1,6 +1,6 @@
 # Dojo-Clock
 
-Practicing basic JavaScript syntax bulding a customizable clock. Create a clock that's inital time is configurable from a client.
+Practicing basic JavaScript syntax bulding a customizable clock. Create a clock that's inital time, and the clock step per second (tick) is configurable from a client.
 
 ## Prerequisites
 

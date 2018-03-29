@@ -6,3 +6,4 @@ module.exports = class Clock {
     return "hello"
   }
 }
+
