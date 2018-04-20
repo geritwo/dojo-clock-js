@@ -1,4 +1,4 @@
-module.exports = class Clock {
+class Clock {
   
   constructor() {}
   
@@ -7,3 +7,6 @@ module.exports = class Clock {
   }
 }
 
+if (typeof module !== "undefined") {
+  module.exports = Clock;
+}
